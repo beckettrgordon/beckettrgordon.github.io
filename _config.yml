@@ -21,10 +21,7 @@
 title: Beckett Gordon
 email: beckett.r.gordon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:":
- Hi! I'm Beckett, a mechanical engineering student 
-at Georgia Tech. I'm interested in robotics,
-motorsports, chess, and rock climbing. Feel free
-to contact me!
+Hi! I'm Beckett, a mechanical engineering student at Georgia Tech. I'm interested in robotics, motorsports, chess, and rock climbing. Feel free to contact me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  beckettrgordon
