@@ -1,1 +1,0 @@
-# beckettrgordon.github.io
