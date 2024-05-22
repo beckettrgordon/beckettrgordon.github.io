@@ -25,6 +25,8 @@ Atlas finished 31st out of 67 teams in the PCH District and qualified for the Di
 
 ### 2023: Bowie 
 
+![Bowie](/images/6925_2023.jpg)
+
 Bowie was 6925's 2023 competition robot, playing the game [Charged Up](https://www.youtube.com/watch?v=0zpflsYc4PA).
 
 Mechanical member, design member.
@@ -37,6 +39,8 @@ Bowie finished 54th out of 92 teams in the PCH District.
 ### 2023-B: Bowie: GRITS Edition 
 
 ### 2024: Vendetta
+
+![Vendetta](/images/6925_2024.jpg)
 
 Vendetta was 6925's 2024 robot, playing the game [Crescendo](https://www.youtube.com/watch?v=9keeDyFxzY4). 
 
