@@ -14,6 +14,8 @@ Swerverus was a small group offseason project built in the fall of 2022; it was 
 
 ### 2022: Atlas 
 
+![Atlas](/6925_2022.JPG)
+
 Atlas was team 6925's 2022 competition robot, playing the game [Rapid React](https://www.youtube.com/watch?v=LgniEjI9cCM).
 
 Mechanical member.
