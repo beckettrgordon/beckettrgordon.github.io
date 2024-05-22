@@ -16,11 +16,23 @@ Swerverus was a small group offseason project built in the fall of 2022; it was 
 
 Atlas was team 6925's 2022 competition robot, playing the game [Rapid React](https://www.youtube.com/watch?v=LgniEjI9cCM).
 
-I was responsible for uptake build and competition pit repairs.  
+Mechanical member.
+
+Engineering: Worked on uptake build and general manufacturing.\
+Competition: Pit team.
+
+Atlas finished 31st out of 67 teams in the PCH District and qualified for the District Championships.
 
 ### 2023: Bowie 
 
-Bowie was 6925's 2024
+Bowie was 6925's 2023 competition robot, playing the game [Charged Up](https://www.youtube.com/watch?v=0zpflsYc4PA).
+
+Mechanical member, design member.
+
+Engineering: Worked on strategic design, intake build, and general manufacturing.\
+Competition: Created strategy subteam
+
+Bowie finished 54th out of 92 teams in the PCH District.
 
 ### 2023-B: Bowie: GRITS Edition 
 
@@ -28,11 +40,10 @@ Bowie was 6925's 2024
 
 Vendetta was 6925's 2024 robot, playing the game [Crescendo](https://www.youtube.com/watch?v=9keeDyFxzY4). 
 
-Responsibilities: mechanical lead, outreach lead, design co-lead, strategy lead, and drive coach.\
-Engineering: Worked on intake design and build, polycarb manufacturing, and general mechanical assistance.\
+Co-captain, design co-lead, mechanical lead, outreach lead, strategy lead, and drive coach.
+
+Engineering: Worked on strategic design, intake design and build, polycarb manufacturing, and general mechanical assistance.\
 Non-engineering: Wrote outreach essays, wrote, filmed, and edited outreach video, and co-wrote 6925's [Open Alliance blog](https://www.chiefdelphi.com/t/frc-team-6925-woodward-academy-robotics-2024-build-thread-open-alliance/443629).\
 Competition: Led strategy discussions and was 6925's drive coach.
 
-PCH Charleston: Vendetta finished 7th in qualifications, was the captain of the 5th alliance, and finished 3rd in eliminations.\
-PCH Albany: Vendetta finished 8th in qualifications, was the captain of the 5th alliance, and finished T-5th in eliminations.\
-PCH District Championships: Vendetta finished 29th in qualifications, was the second pick of the 7th alliance, and finished T-7th in eliminations.
+Vendetta finished 25th out of 97 teams in the PCH District and qualified for the District Championships.
