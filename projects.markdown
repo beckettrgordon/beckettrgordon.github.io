@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Projects
-permalink: /projects/
+title: Robotics
+permalink: /robots/
 ---
 
 ## Non-Competition Robotics
