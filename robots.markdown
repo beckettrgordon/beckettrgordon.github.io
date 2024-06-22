@@ -8,9 +8,11 @@ permalink: /robots/
 
 ### T-Shirt Cannon: Swerverus
 
+![Swerverus](/images/cannon.jpeg)
+
 Swerverus was a small group offseason project built in the fall of 2022; it was used for a robotics competition in April 2023 and football games throughout fall semester of 2023.
 
-![Swerverus](/images/cannon.jpeg)
+Worked on pneumatic design, superstructure design, complete build, and operation.
 
 ## FIRST Robotics Competition 
 
